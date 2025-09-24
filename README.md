@@ -43,8 +43,7 @@ Want to contribute to **Evolution Tycoon**?
 
 ## Credits
 
-- **Developer:** [calmano14]  
+- **Developer:** **calmano14**
 - **Roblox Studio:** Game engine and development platform.  
-- **Community Feedback:** Thanks to all beta testers who helped improve gameplay.
 
 ---
